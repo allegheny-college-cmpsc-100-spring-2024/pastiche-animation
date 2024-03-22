@@ -71,9 +71,11 @@ Some options (note that some suggestions include credit for both math-logic and 
 
 ### Independent Research
 
+**You need to get two checkmarks for independent resarch throughout the duration of the semester in order to receive credit**. 
+
 To get an Independent Rsearch checkmark, you should use VPython and/or Python code we haven't covered in class (see Coding References on the syllabus). You should mark the section of code that you've independently researched with the comment label # INDEPENDENT RESEARCH, and you should explain what each line of the newly-learned code is doing in the comments. 
 
-You should also include a link the the source code you're referencing, and an acknowledgment if you've borrowed any codeblocks more than two lines long (even if you've modified them -- mark your modifications in the comments). You need to get two checkmarks for independent resarch throughout the duration of the semester in order to receive credit, so it's up to you whether you feel ready to do that work now, or if you want to save it for a later assignment.
+You should also include a link the the source code you're referencing, and an acknowledgment if you've borrowed any codeblocks more than two lines long (even if you've modified them -- mark your modifications in the comments). 
 
 ## Step Three: Reflection
 
