@@ -1,10 +1,10 @@
-# Animated Pastiche
+# Pastiche Animation
 
 ## Description
 
 In this lab, you will choose two works of art and use them to inspire an animated [*pastiche*](https://www.merriam-webster.com/dictionary/pastiche). The conceptual and artistic goal for this lab  is to create an animated 3D canvas that shows thoughtful engagement with these two pieces of art.
 
-You can get credit for **variables**, **math-logic**, **while-loops**, **for-loops**, **if-else**, **functions** and **return**. You can deploy these concepts however you like as long as it is **documented with comments** and **has a visible effect in your canvas**. Your project should also include animation and you should be able to write about how your two selected images influenced the outcome in your reflection. 
+You can get credit for **variables**, **math-logic**, **while-loops**, **for-loops**, **if-else**, **functions** and **dictionaries**. You can deploy these concepts however you like as long as it is **documented with comments** and **has a visible effect in your canvas**. Your project should also include animation and you should be able to write about how your two selected images influenced the outcome in your reflection. 
 
 This project covers [course outcomes](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials#learning-outcomes) including application of Python programming principles, and designing and implementing original projects. 
 
