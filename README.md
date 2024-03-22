@@ -48,9 +48,7 @@ Some options:
 - Use `while True:` (with a `rate()` function as the first line insdie it) in order to animate your image. 
 - Use a `while` loop to draw the same shape or compound shape more than once. 
 
-### Functions and Return
-
-Note that your function must include a return statement to get credit for **return**. Functions without a return statement can still get **function** credit.
+### Functions
 
 Some options: 
 
